@@ -1,0 +1,19 @@
+#cardsSection{
+
+display: flex;
+padding-left: 10%;
+
+
+}
+.card-img{
+    height: 300px;
+}
+
+.img-div{
+    margin-left: 20px;
+}
+
+.video-section{
+    display: flex;
+    padding: 3%;
+}
